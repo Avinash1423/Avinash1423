@@ -28,6 +28,17 @@
   <a href="https://www.postgresql.org" target="_blank" rel="noreferrer">
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original-wordmark.svg" alt="PostgreSQL" width="50" height="50"/>
   </a>
+<a href="https://www.docker.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original-wordmark.svg" alt="docker" width="50" height="50"/> </a>
+  <a href="https://github.com/features/actions" target="_blank" rel="noreferrer">
+  <img
+    src="https://cdn.jsdelivr.net/npm/simple-icons@v9/icons/githubactions.svg"
+    alt="GitHub Actions"
+    width="50"
+    height="50"
+    loading="lazy"
+    style="vertical-align:middle"
+  />
+</a>
 </p>
 
 <!-- ==================== CONTACT LINKS ==================== -->
